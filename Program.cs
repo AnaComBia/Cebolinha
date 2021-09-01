@@ -15,7 +15,9 @@ namespace Cebolinha
             .Replace("R", "L");
 
 
-            Console.WriteLine(usuariofalal);
+            Console.Write("\njeito do cebolinha: ");
+            Console.Write(usuariofalal);
+            Console.WriteLine();
         }
     }
 }
